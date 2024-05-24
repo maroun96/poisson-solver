@@ -1,0 +1,19 @@
+#vscode config
+.vscode
+
+#jupyter notebook files
+*ipynb*
+
+#hdf5 files
+*.hdf5
+
+#dat files
+*.dat
+
+#plots
+*.png
+*.jpg
+
+#bin and build folders
+bin
+build
